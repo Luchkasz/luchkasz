@@ -21,6 +21,8 @@
   	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
+<br>
+
 <div align="center"> 
 	<a href="https://t.me/luchkasz" target="_blank">
   		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
@@ -30,6 +32,10 @@
   	</a>
 	<a href="https://www.linkedin.com/in/luchkasz" target="_blank">
   		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  	</a> 
-</div>
+  	</a>
+	
+	<br>
+
 ![Snake animation](https://github.com/luchkasz/luchkasz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
