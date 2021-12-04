@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas. 
   
 ### Sobre mim
-<div align="center">
+<div>
 	<p> - 📚 Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Paraná </p>
 </div>
 
@@ -36,6 +36,6 @@
 	
 <br>
 
-![Snake animation](https://github.com/luchkasz/luchkasz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Luchkasz/Luchkasz/blob/output/github-contribution-grid-snake.svg)
 
 </div>
