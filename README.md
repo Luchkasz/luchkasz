@@ -29,7 +29,7 @@
 	<a href="https://t.me/luchkasz" target="_blank">
   		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   	</a>
-	<a href="https://mailto:silva.lucasgomes@protonmail.com" target="_blank">
+	<a href="mailto:silva.lucasgomes@protonmail.com" target="_blank">
   		<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
   	</a>
 	<a href="https://www.linkedin.com/in/luchkasz" target="_blank">
