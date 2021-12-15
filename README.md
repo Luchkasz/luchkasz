@@ -2,7 +2,7 @@
   
 ### Sobre mim
 <div align="center">
-	<p> - 📚 Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Paraná </p>
+	<p> 📚 Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Paraná </p>
 </div>
 
 <div align="center">
