@@ -6,11 +6,11 @@
 
 -   🧑‍💻 I'm dedicating myself to learning Flutter and English in 2023;
 
--   👾 I also like: football, skating, games and movies :)
+-   👾 My favorite color is #8b34de
 
 <span align="center">
 
-<h2 style="color:#8b34de">Technologies</h2>
+<h2>Technologies</h2>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -33,11 +33,11 @@
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-<h2 style="color:#8b34de">Connect with me</h2>
+<h2>Connect with me</h2>
 <a href="https://letterboxd.com/Luchkasz/" target="_blank"> 
-    <img align="center" height="30" width="40" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png">
+    <img align="center" height="30" width="auto" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png">
 </a>
 <a href="https://www.linkedin.com/in/luchkasz//" target="_blank"> 
-    <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+    <img align="center" height="30" width="auto" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
 </span>
