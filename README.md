@@ -11,7 +11,6 @@
 <span align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=8B34DE&repeat=false&width=435&lines=Technologies)](https://git.io/typing-svg)
-    
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -34,8 +33,8 @@
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=8B34DE&repeat=false&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
     
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=8B34DE&repeat=false&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
 <a href="https://letterboxd.com/Luchkasz/" target="_blank"> 
     <img align="center" height="30" width="auto" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png">
 </a>
