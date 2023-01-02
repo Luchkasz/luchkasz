@@ -6,7 +6,7 @@
 
 -   🧑‍💻 I'm dedicating myself to learning Flutter and English in 2023;
 
--   👾 My favorite color is #8b34de
+-   👾 My favorite color is #8b34de;
 
 <span align="center">
 
