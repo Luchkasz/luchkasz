@@ -34,9 +34,6 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 <h2>Connect with me</h2>
-<a href="https://letterboxd.com/Luchkasz/" target="_blank"> 
-    <img align="center" height="30" width="auto" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png">
-</a>
 <a href="https://www.linkedin.com/in/luchkasz//" target="_blank"> 
     <img align="center" height="30" width="auto" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
